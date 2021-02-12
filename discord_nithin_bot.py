@@ -4,7 +4,7 @@ import asyncio
 global friends,target_name,audio_source
 friends = ["Phantom_Blaze"]
 target_name = "sample"# Here you put the IDs of the people you consider as friends
-audio_source = "C:\\Users\\Sreenivas\\Desktop\\audio1.mp3"
+audio_source = "audio1.mp3"
 
 client = discord.Client()
 
