@@ -1,1 +1,0 @@
-worker: python discord_nithin_bot.py
