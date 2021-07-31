@@ -9,7 +9,7 @@ target_name = "sample"
 audio_source = [["audio1.mp3",3],["audio2.mp3",9]]
 
 ##########################################################
-server_id = 673112955381874715
+server_id = "Your Server iD"
 
 client = discord.Client()
 with open('token.txt','r') as f:
