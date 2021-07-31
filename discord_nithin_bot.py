@@ -6,7 +6,7 @@ global friends,target_name,audio_source,server_id
 ##########################################################
 friends = ["Phantom_Blaze"] # Here you put the IDs of the people you consider as friends
 target_name = "sample"
-audio_source = [["audio1.mp3",3],["audio2.mp3",9]]
+audio_source = [["audio1.mp3",3],["audio2.mp3",9]]#[your audio file,length of audio file]
 
 ##########################################################
 server_id = "Your Server iD"
